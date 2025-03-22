@@ -1,6 +1,7 @@
 # User List App
 
 This is a **React** application that fetches and displays a list of users from the **JSONPlaceholder API**. The app is containerized using **Docker** and can be easily run either locally or via Docker.
+
 ![image](https://github.com/user-attachments/assets/07c1f136-1949-4f3a-817d-cd27fc6ddb1e)
 
 ## Features
